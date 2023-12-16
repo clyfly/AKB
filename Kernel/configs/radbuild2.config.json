@@ -1,11 +1,11 @@
 [
   {
       "kernelSource": {
-        "name": "genome-Kernel",
-        "repo": "https://github.com/rama982/kernel_xiaomi_rosemary.git",
-        "branch": "R",
+        "name": "Rad-Kernel-R",
+        "repo": "https://github.com/cly-build/rad-kernel-rosemary-R",
+        "branch": "rad",
         "device": "rosemary",
-        "defconfig": "rosemary_defconfig"
+        "defconfig": "rad_defconfig"
       },
       "enableCcache": true,
       "toolchains": [
@@ -50,11 +50,11 @@
     },
     {
       "kernelSource": {
-        "name": "genome-Kernel-ksu",
-        "repo": "https://github.com/rama982/kernel_xiaomi_rosemary.git",
-        "branch": "R",
+        "name": "Rad-Kernel-R-ksu",
+        "repo": "https://github.com/cly-build/rad-kernel-rosemary-R",
+        "branch": "rad",
         "device": "rosemary",
-        "defconfig": "rosemary_defconfig"
+        "defconfig": "rad_defconfig"
       },
       "enableCcache": true,
       "toolchains": [
