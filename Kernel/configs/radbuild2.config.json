@@ -2,10 +2,10 @@
   {
       "kernelSource": {
         "name": "Rad-Kernel-R",
-        "repo": "https://github.com/cly-build/rad-kernel-rosemary-R",
-        "branch": "rad",
+        "repo": "https://github.com/cly-build/genome-project.git",
+        "branch": "T-test",
         "device": "rosemary",
-        "defconfig": "rad_defconfig"
+        "defconfig": "rosemary_defconfig"
       },
       "enableCcache": true,
       "toolchains": [
@@ -51,10 +51,10 @@
     {
       "kernelSource": {
         "name": "Rad-Kernel-R-ksu",
-        "repo": "https://github.com/cly-build/rad-kernel-rosemary-R",
-        "branch": "rad",
+        "repo": "https://github.com/cly-build/genome-project.git",
+        "branch": "T-test",
         "device": "rosemary",
-        "defconfig": "rad_defconfig"
+        "defconfig": "rosemary_defconfig"
       },
       "enableCcache": true,
       "toolchains": [
