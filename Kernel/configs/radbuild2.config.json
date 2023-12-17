@@ -1,7 +1,7 @@
 [
   {
       "kernelSource": {
-        "name": "Rad-Kernel-R",
+        "name": "genome-Kernel-R",
         "repo": "https://github.com/cly-build/genome-project.git",
         "branch": "T-test",
         "device": "rosemary",
@@ -50,7 +50,7 @@
     },
     {
       "kernelSource": {
-        "name": "Rad-Kernel-R-ksu",
+        "name": "genome-Kernel-R-ksu",
         "repo": "https://github.com/cly-build/genome-project.git",
         "branch": "T-test",
         "device": "rosemary",
