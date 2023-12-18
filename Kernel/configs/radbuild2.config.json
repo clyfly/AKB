@@ -3,7 +3,7 @@
       "kernelSource": {
         "name": "genome-Kernel-R",
         "repo": "https://github.com/cly-build/genome-project.git",
-        "branch": "T-test",
+        "branch": "R",
         "device": "rosemary",
         "defconfig": "rosemary_defconfig"
       },
@@ -52,7 +52,7 @@
       "kernelSource": {
         "name": "genome-Kernel-R-ksu",
         "repo": "https://github.com/cly-build/genome-project.git",
-        "branch": "T-test",
+        "branch": "R",
         "device": "rosemary",
         "defconfig": "rosemary_defconfig"
       },
