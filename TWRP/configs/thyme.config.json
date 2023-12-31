@@ -6,7 +6,7 @@
         },
         "Device": {
             "Repo": "https://github.com/RedmiNote10S/recovery_device_redmi_rosemary.git",
-            "Branch": "12.1",
+            "Branch": "android-12.1",
             "Location": "device/xiaomi/rosemary",
             "DeviceName": "rosemary",
             "Makefile": "twrp_rosemary",
