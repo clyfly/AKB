@@ -5,11 +5,11 @@
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
-            "Branch": "android-13",
-            "Location": "device/xiaomi/thyme",
-            "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
+            "Repo": "https://github.com/RedmiNote10S/recovery_device_redmi_rosemary.git",
+            "Branch": "12.1",
+            "Location": "device/xiaomi/rosemary",
+            "DeviceName": "rosemary",
+            "Makefile": "twrp_rosemary",
             "BootPartition": "boot"
         }
     }
